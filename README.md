@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Garbox0
 - 👀 I’m interested in creating code
 - 🌱 I’m currently learning Python - SQL - postgreSQL - Cibersecurity
-- 📫 How to reach me - Gbrlescalada@gmail.com - linkedin.com/in/gabriel-escalada
+- 📫 How to reach me - Gbrlescalada@gmail.com - www.linkedin.com/in/gabriel-escalada
